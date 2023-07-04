@@ -1,1 +1,2 @@
 # odin-recipes
+My first website. Presents the recipes to three of my favourite fictional dishes/snacks. For my first HTML project, this experience went smoother than I had anticipated. I honed my skills and memorized some syntax. I learned more about using git, though I am still not fully confident in my understanding of it.
